@@ -1,6 +1,6 @@
 ## ANOVA
 
-ANOVA stands for Analysis of variance, and it allows you to compare more than two groups (factors) at the same time to determine if any relationship between them exists.
+ANOVA stands for Analysis of variance, and it allows you to compare more than two groups at the same time to determine if any relationship between them exists.
 
 
 ## Simple hypothesis test:
